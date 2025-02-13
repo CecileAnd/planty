@@ -272,6 +272,8 @@ nav li.commander-link a {
     left: 10px;
 }
 h2.elementor-heading-title, h2.elementor-size-default {
-    font-size: 20px;
+    font-size: 20px!important;
+    text-align: center;
+    margin-right: 20px;
 }
 }
