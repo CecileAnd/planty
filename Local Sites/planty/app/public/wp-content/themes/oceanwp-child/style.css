@@ -38,48 +38,10 @@ header img {
     list-style: none;
 }
 
-/* ==================== Menu ==================== */
-/* "Nous rencontrer" et "Admin" en noir sur fond blanc */
-.menu-item a[href*="nous-rencontrer"],
-.menu-item a[href*="wp-admin"] {
-    background-color: white;
-    color: black;
-    padding: 10px 15px;
-    text-decoration: none;
-}
-
-/* ==================== Espacement et effets au survol des liens du menu ==================== */
-/*.menu-item {
-    margin-right: 5px;
-}*/
-
-li.commander-link a:hover {
-    opacity: 0.8;
-}
-
-/* ==================== Style spécifique pour "Commander" ==================== */
-/* Appliquer le fond rose uniquement à "Commander" */
-li.commander-link a {
-    color: white;
-    background-color: #D2776A;
-    padding: 10px 15px;
-    padding-top: 25px;
-    margin: -20px -30px -25px 5px;
-    text-decoration: none;
-    display: inline-block;
-    width: auto; /* Évite que le fond prenne toute la largeur */
-}
-nav li.commander-link a {
-    background-color: #D2776A; /* Fond rose spécifique au lien "Commander" */
-}
-
 /* ==================== Footer ==================== */
 footer {
     display: flex;
     justify-content: center;
-}
-#footer {
-    margin: 20px 0px;
 }
 
 /* ==================== Divers ==================== */
@@ -94,24 +56,24 @@ footer {
     list-style: none;
     padding: 10px 20px;
 }
-#menu-item-253 {
+/*#menu-item-253 {
     background-color: #D2776A;
-    padding: 20px 50px 20px 10px;
-    margin: -25px -25px -25px 25px;
+    padding: 20px 30px;
+    margin: -25px -20px -25px 25px;
 }
 #menu-item-253 > a {
     color: white;
-}
+}*/
 /*#menu-item-485 {
     margin-left: 25px;
 }*/
 
-/* ==================== Formulaires (Extensions Contact Form 7 et Smart Grid Layout Design for Contact Form 7) ==================== */
+/* ==================== Formulaires (Contact Form 7) ==================== */
 .wpcf7 label {
     color: black;
 }
 .wpcf7 input, textarea {
-    box-shadow: 0 0 10px rgba(0,0,0,0.2); /* Remis transparence à 0.2*/
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
 } 
 .wpcf7-form-control.wpcf7-submit.has-spinner.bouton-envoyer {
     text-transform: lowercase;
@@ -164,9 +126,8 @@ h3.parfum {
     color: white;
     text-align: center;
     justify-content: center;
-    line-height: 24px;
-    font-size: 20px;
-    font-weight: 800;
+    font-size: 24px;
+    font-weight: 700;
 }
 input.wpcf7-form-control.wpcf7-submit.has-spinner.bouton-commander {
     width: 200px;
@@ -249,13 +210,63 @@ div.elementor-element-09af1a7 {
     background-repeat: no-repeat, no-repeat;
     background-size: contain 1px, contain 1px;
     background-position: 40% 50%, 60% 50%;
-}
-@media screen and (max-width:600px) {
-    div.elementor-element-8e5b025 {
-        background-image: url(http://planty.local/wp-content/uploads/2025/02/feuille_gauche.png), url(http://planty.local/wp-content/uploads/2025/02/feuille_droite.png);
-        background-repeat: no-repeat, no-repeat;
-        background-size: contain 1px, contain 1px;
-        background-position: 20% 50%, 80% 50%; 
-    }
 }*/
 
+/* ==================== Menu ==================== */
+/* "Nous rencontrer" et "Admin" en noir sur fond blanc */
+.menu-item a[href*="nous-rencontrer"],
+.menu-item a[href*="wp-admin"] {
+    background-color: white;
+    color: black;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+/* ==================== Espacement et effets au survol des liens du menu ==================== */
+.menu-item {
+    margin-right: 15px;
+}
+
+li.commander-link a:hover {
+    opacity: 0.8;
+}
+
+/* ==================== Style spécifique pour "Commander" ==================== */
+/* Appliquer le fond rose uniquement à "Commander" */
+li.commander-link a {
+    color: white;
+    background-color: #D2776A;
+    padding: 20px 25px;
+    margin: -30px -35px -30px 5px;
+    text-decoration: none;
+    display: inline-block;
+    width: auto; /* Évite que le fond prenne toute la largeur */
+}
+nav li.commander-link a {
+    background-color: #D2776A; /* Fond rose spécifique au lien "Commander" */
+}
+/* Ajouté Media Queries le 13/02/2025 */
+@media screen and (max-width: 600px) {
+    header#en-tete, a#logo, nav#menu, div.menu-planty-container, ul#salut, ul.menu {
+        display: flex;
+        flex-direction: column;
+    }
+    /* Enlever le fond rose sur "Commander" */
+li.commander-link a {
+    color: black;
+    background-color: none;
+    padding: 20px 25px;
+    margin: -30px -35px -30px -10px;
+    text-decoration: none;
+    display: inline-block;
+    width: auto; /* Évite que le fond prenne toute la largeur */
+}
+nav li.commander-link a {
+    background: none;
+     /* Fond rose enlevé au lien "Commander" */
+}
+#logo {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+}
