@@ -245,27 +245,33 @@ li.commander-link a {
 nav li.commander-link a {
     background-color: #D2776A; /* Fond rose spécifique au lien "Commander" */
 }
+/* Ajouté Media Queries le 13/02/2025 */
 @media screen and (max-width: 600px) {
     header#en-tete, a#logo, nav#menu, div.menu-planty-container, ul#salut, ul.menu {
         display: flex;
         flex-direction: column;
+        text-align: center;
     }
-    /* Enlever le fond rose sur "Commander" */
+    /* Remis le fond rose sur "Commander" */
 li.commander-link a {
-    color: black;
-    background-color: none;
-    padding: 20px 25px;
-    margin: -30px -35px -30px -10px;
+    color: white;
+    background-color: #D2776A;
+    padding: 5px 10px;
+    margin: 0px 10px;
     text-decoration: none;
     display: inline-block;
     width: auto; /* Évite que le fond prenne toute la largeur */
 }
 nav li.commander-link a {
-    background: none;
-     /* Fond rose enlevé au lien "Commander" */
+    background-color: #D2776A;
+     /* Fond rose remis */
 }
 #logo {
     position: absolute;
     top: 40px;
     left: 10px;
+}
+h2.elementor-heading-title, h2.elementor-size-default {
+    font-size: 20px;
+}
 }
