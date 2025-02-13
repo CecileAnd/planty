@@ -251,13 +251,14 @@ nav li.commander-link a {
         display: flex;
         flex-direction: column;
         text-align: center;
+        margin: 10px 10px;
     }
     /* Remis le fond rose sur "Commander" */
 li.commander-link a {
     color: white;
     background-color: #D2776A;
     padding: 5px 10px;
-    margin: 0px 10px;
+    margin: 10px 10px;
     text-decoration: none;
     display: inline-block;
     width: auto; /* Évite que le fond prenne toute la largeur */
