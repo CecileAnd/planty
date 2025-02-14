@@ -1,0 +1,119 @@
+[22-Jan-2025 13:16:44 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php on line 9
+[22-Jan-2025 13:17:40 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php on line 9
+[22-Jan-2025 13:17:42 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php on line 9
+[22-Jan-2025 13:17:43 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php on line 9
+[22-Jan-2025 13:17:49 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php on line 9
+[22-Jan-2025 13:17:51 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php on line 9
+[22-Jan-2025 13:18:15 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php on line 9
+[22-Jan-2025 13:18:16 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php on line 9
+[23-Jan-2025 08:47:04 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[23-Jan-2025 08:49:19 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[23-Jan-2025 14:19:52 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[24-Jan-2025 12:48:08 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[24-Jan-2025 12:54:32 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[24-Jan-2025 12:55:46 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[24-Jan-2025 15:14:37 UTC] PHP Warning:  Undefined property: stdClass::$newest in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\royal-elementor-addons\freemius\start.php on line 288
+[24-Jan-2025 15:14:37 UTC] PHP Warning:  Attempt to read property "version" on null in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\royal-elementor-addons\freemius\start.php on line 288
+[24-Jan-2025 15:16:29 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Jan-2025 09:10:05 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[27-Jan-2025 12:14:47 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:47:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Jan-2025 14:55:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[29-Jan-2025 13:00:34 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[29-Jan-2025 14:48:28 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[05-Feb-2025 13:50:25 UTC] PHP Fatal error:  Uncaught TypeError: array_splice(): Argument #1 ($array) must be of type array, string given in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php:30
+Stack trace:
+#0 C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php(30): array_splice('<li id="menu-it...', 1, 0, '<li class="menu...')
+#1 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(324): add_admin_menu_link('<li id="menu-it...', Object(stdClass))
+#2 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('<li id="menu-it...', Array)
+#3 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\nav-menu-template.php(267): apply_filters('wp_nav_menu_ite...', '<li id="menu-it...', Object(stdClass))
+#4 C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php(32): wp_nav_menu(Object(stdClass))
+#5 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\template.php(810): require_once('C:\\Users\\cecil\\...')
+#6 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\template.php(745): load_template('C:\\Users\\cecil\\...', true, Array)
+#7 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#9 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\cecil\\...')
+#10 C:\Users\cecil\Local Sites\planty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\cecil\\...')
+#11 C:\Users\cecil\Local Sites\planty\app\public\index.php(17): require('C:\\Users\\cecil\\...')
+#12 {main}
+  thrown in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 30
+[05-Feb-2025 13:55:56 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php:30
+Stack trace:
+#0 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(324): add_admin_menu_link('<li id="menu-it...', Object(stdClass))
+#1 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('<li id="menu-it...', Array)
+#2 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\nav-menu-template.php(267): apply_filters('wp_nav_menu_ite...', '<li id="menu-it...', Object(stdClass))
+#3 C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\header.php(32): wp_nav_menu(Object(stdClass))
+#4 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\template.php(810): require_once('C:\\Users\\cecil\\...')
+#5 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\template.php(745): load_template('C:\\Users\\cecil\\...', true, Array)
+#6 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 C:\Users\cecil\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#8 C:\Users\cecil\Local Sites\planty\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\cecil\\...')
+#9 C:\Users\cecil\Local Sites\planty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\cecil\\...')
+#10 C:\Users\cecil\Local Sites\planty\app\public\index.php(17): require('C:\\Users\\cecil\\...')
+#11 {main}
+  thrown in C:\Users\cecil\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 30
