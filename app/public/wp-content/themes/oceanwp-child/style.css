@@ -29,7 +29,7 @@ header img {
 }
 #logo {
     position: absolute;
-    top: 20px;
+    top: 40px;
     left: 10px;
 }
 /* ==================== Menu Horizontal ==================== */
@@ -269,8 +269,12 @@ nav li.commander-link a {
 }
 #logo {
     position: absolute;
-    top: 40px;
+    top: 50px;
     left: 10px;
+}
+.menu-item-251, .menu-item-253 {
+    position: relative;
+    top: 60px;
 }
 h2.elementor-heading-title, h2.elementor-size-default {
     font-size: 20px!important;
