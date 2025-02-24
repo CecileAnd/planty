@@ -24,13 +24,17 @@ header img {
 /* ==================== Liste #en-tete ==================== */
 #en-tete {
     display: flex;
-    list-style: none;
-    justify-content: right;
+    align-items: center;
+    justify-content: space-between; /* Sépare le logo et le menu */
 }
+
 #logo {
-    position: absolute;
-    top: 40px;
-    left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+#menu {
+    display: flex;
 }
 /* ==================== Menu Horizontal ==================== */
 .horizontal {
@@ -78,33 +82,54 @@ footer {
 .wpcf7-form-control.wpcf7-submit.has-spinner.bouton-envoyer {
     text-transform: lowercase;
     text-transform: capitalize;
+    background-color: #E0B9B4;
 }
 .wpcf7-form-control.wpcf7-submit.has-spinner.bouton-commander {
     text-transform: lowercase;
     text-transform: capitalize;
+    background-color: #E0B9B4;
+}
+.elementor-button-text {
+    background-color: #E0B9B4;
+}
+.wpcf7-form-control.wpcf7-submit.has-spinner.bouton-commander:hover {
+    background-color:#D2776A;
+}
+.wpcf7-form-control.wpcf7-submit.has-spinner.bouton-envoyer:hover {
+    background-color:#D2776A;
+}
+.elementor-button-text {
+    background-color: #D2776A;
+}
+#main-container-order * {
+    font-family: "Syne", Sans-serif!important;
+}
+form.wpcf7-form {
+    display: flex;
+    flex-direction: column;
 }
 
 /* ==================== Images de fond pour les sections ==================== */
 div#fraise {
-	background: url("http://planty.local/wp-content/uploads/2025/01/fraises.png");
+	background: url("../../uploads/2025/01/fraises.png");
     width: 100%;
     height: 100px;
     background-size: cover;
 }
 div#pamplemousse {
-	background: url("http://planty.local/wp-content/uploads/2025/01/pamplemousses.png");
+	background: url("../../uploads/2025/01/pamplemousses.png");
     width: 100%;
     height: 100px;
     background-size: cover;
 }
 div#framboise {
-	background: url("http://planty.local/wp-content/uploads/2025/01/framboises.png");
+	background: url("../../uploads/2025/01/framboises.png");
     width: 100%;
     height: 100px;
     background-size: cover;
 }
 div#citron {
-	background: url("http://planty.local/wp-content/uploads/2025/01/citrons.png");
+	background: url("../../uploads/2025/01/citrons.png");
     width: 100%;
     height: 100px;
     background-size: cover;
@@ -127,7 +152,7 @@ h3.parfum {
     text-align: center;
     justify-content: center;
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 800;
 }
 input.wpcf7-form-control.wpcf7-submit.has-spinner.bouton-commander {
     width: 200px;
@@ -188,29 +213,33 @@ input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
 
 /* ==================== Styles de divs avec background spécifique ==================== */
 div.elementor-element-8f3fb33 {
-    background-image: url(http://planty.local/wp-content/uploads/2025/01/fleur.png);
+    background-image: url(../../uploads/2025/01/fleur.png);
     background-repeat: no-repeat;
     background-size: contain 20px;
     background-position: 20% 20%;
 }
 div.elementor-element-82f2999 {
-    background-image: url(http://planty.local/wp-content/uploads/2025/02/baies.png);
+    background-image: url(../../uploads/2025/02/baies.png);
     background-repeat: no-repeat;
     background-size: contain 20px;
     background-position: 40% 90%;
 }
 div.elementor-element-09af1a7 {
-    background-image: url(http://planty.local/wp-content/uploads/2025/02/feuille_gauche.png);
+    background-image: url(../../uploads/2025/02/feuille_gauche.png);
     background-repeat: no-repeat;
     background-size: contain 20px;
     background-position: 100% 100%;
 }
 /*div.elementor-element-8e5b025 {
-    background-image: url(http://planty.local/wp-content/uploads/2025/02/feuille_gauche.png), url(http://planty.local/wp-content/uploads/2025/02/feuille_droite.png);
+    background-image: url(../../uploads/2025/02/feuille_gauche.png), url(../../uploads/2025/02/feuille_droite.png);
     background-repeat: no-repeat, no-repeat;
     background-size: contain 1px, contain 1px;
-    background-position: 40% 50%, 60% 50%;
+    background-position: 40% 60%, 60% 60%;
 }*/
+
+
+
+
 
 /* ==================== Menu ==================== */
 /* "Nous rencontrer" et "Admin" en noir sur fond blanc */
@@ -236,8 +265,8 @@ li.commander-link a:hover {
 li.commander-link a {
     color: white;
     background-color: #D2776A;
-    padding: 20px 25px;
-    margin: -30px -35px -30px 5px;
+    padding: 25px 25px; /*Augmenté padding le 18/02/2025*/
+    margin: -50px -35px -30px 5px;
     text-decoration: none;
     display: inline-block;
     width: auto; /* Évite que le fond prenne toute la largeur */
@@ -245,6 +274,20 @@ li.commander-link a {
 nav li.commander-link a {
     background-color: #D2776A; /* Fond rose spécifique au lien "Commander" */
 }
+
+/* ==================== Commentaires formulaires ==================== */
+div.cf7sg-response-output {
+    color: white;
+}
+
+/* ==================== Footer ==================== */
+div.centrer {
+    height: 60px;
+    align-items: center;
+}
+
+
+
 /* Ajouté Media Queries le 13/02/2025 */
 @media screen and (max-width: 600px) {
     header#en-tete, a#logo, nav#menu, div.menu-planty-container, ul#salut, ul.menu {
@@ -258,7 +301,7 @@ li.commander-link a {
     color: white;
     background-color: #D2776A;
     padding: 5px 10px;
-    margin: 10px 10px;
+    margin: 10px;
     text-decoration: none;
     display: inline-block;
     width: auto; /* Évite que le fond prenne toute la largeur */
@@ -267,10 +310,13 @@ nav li.commander-link a {
     background-color: #D2776A;
      /* Fond rose remis */
 }
+li#menu-item-251 {
+    margin-bottom: -5px;
+}
 #logo {
-    position: absolute;
-    top: 50px;
-    left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
 }
 .menu-item-251, .menu-item-253 {
     position: relative;
